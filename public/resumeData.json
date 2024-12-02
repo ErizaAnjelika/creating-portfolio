@@ -3,6 +3,17 @@
         "name": "Eriza Anjelika",
         "description": "Frontend Developer",
         "github": "https://github.com/erizaanjelika",
-        "project": "https://github.com/erizaanjelika/creating-portfolio"
+        "project": "https://github.com/erizaanjelika/creating-portfolio",
+        "bio":"Frontend Developer di Anakode indonesia. Lulusan SMK dan pernah ikut bootcamp",
+        "image":"Eriza.jpg",
+        "contactmessage": "Hello, Here i am",
+        "phone": "0812-3456-7890",
+        "email": "email@gmail.com",
+        "address": {
+            "street": "Jl Barisan Utara",
+            "city": "Malang",
+            "state": "Jawa Timur",
+            "zip": "65166"
+        }
     }
 }
