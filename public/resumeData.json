@@ -14,6 +14,36 @@
             "city": "Malang",
             "state": "Jawa Timur",
             "zip": "65166"
-        }
+        },
+        "website": "https://github.com/erizaanjelika",
+        "resumedownload": "https://github.com/erizaanjelika",
+        "social":[
+            {
+                "name": "facebook",
+                "url": "https://github.com/erizaanjelika",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name":"twitter",
+                "url":"http://twitter.com",
+                "className":"fa fa-twitter"
+            },
+            {
+                "name":"linkedin",
+                "url":"https://www.linkedin.com/in/erizaanjelika",
+                "className":"fa fa-linkedin"
+            },
+            {
+                "name":"instagram",
+                "url":"http://instagram.com/erizaanjelika",
+                "className":"fa fa-instagram"
+            },
+            {
+                "name":"github",
+                "url":"https://github.com/erizaanjelika",
+                "className":"fa fa-github"
+            }
+
+        ]
     }
 }
