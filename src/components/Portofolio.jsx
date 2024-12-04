@@ -22,7 +22,7 @@ export default class Portofolio extends Component {
       );
     });
     return (
-      <section id="portofolio">
+      <section id="portfolio">
         <Fade left duration={1000} distance="40px">
           <div className="row">
             <div className="twelve columns collapsed">
