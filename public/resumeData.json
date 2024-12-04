@@ -111,6 +111,46 @@
                     "level": "80%"
                 }
             ]
+        },
+        "portofolio":{
+            "project":[
+                {
+                    "title":"Canadian wonderlust",
+                    "description":"Project 1",
+                    "image":"01.jpg",
+                    "url":"https://www.canadianwonderlust.com"
+                },
+                {
+                    "title":"Fury of the Dragon",
+                    "description":"Project 2",
+                    "image":"02.jpg",
+                    "url":"https://www.canadianwonderlust.com"
+                },
+                {
+                    "title":"Fury of the Dragon",
+                    "description":"Project 3",
+                    "image":"03.jpg",
+                    "url":"https://www.canadianwonderlust.com"
+                },
+                {
+                    "title":"Fury of the Dragon",
+                    "description":"Project 4",
+                    "image":"04.jpg",
+                    "url":"https://www.canadianwonderlust.com"
+                },
+                {
+                    "title":"Fury of the Dragon",
+                    "description":"Project 5",
+                    "image":"05.jpg",
+                    "url":"https://www.canadianwonderlust.com"
+                },
+                {
+                    "title":"Fury of the Dragon",
+                    "description":"Project 6",
+                    "image":"06.jpg",
+                    "url":"https://www.canadianwonderlust.com"
+                }
+            ]
         }
     }
 }

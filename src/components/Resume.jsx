@@ -1,5 +1,5 @@
 import { Component } from "react";
-import { Fade, Slide } from "react-awesome-reveal"; //slide ke kanan
+import { Slide } from "react-awesome-reveal"; //slide ke kanan
 
 class Resume extends Component {
   getRandomColor() {
