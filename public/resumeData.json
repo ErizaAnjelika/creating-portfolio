@@ -44,6 +44,73 @@
                 "className":"fa fa-github"
             }
 
-        ]
+        ],
+        "resume": {
+            "skillmessage": "this is my skill & passion",
+            "education": [
+                {
+                    "school": "UT School",
+                    "degree": "Program Fullstack Developer",
+                    "graduated": "Juni 2024",
+                    "description": "afther graduated iam learn about Fullstact Developer"
+                },
+                {
+                    "school": "Bootcamp dibimbing.id",
+                    "degree": "Frontend Developer",
+                    "graduated": "Februari 2019",
+                    "description": "iam learn about Frontend Developer"
+                },
+                {
+                    "school": "Brantas Karangkates",
+                    "degree": "SMK",
+                    "graduated": "Juni 2021",
+                    "description": "iam learn about basic program"
+                }
+            ],
+            "work": [
+                {
+                    "company": "Anakode",
+                    "title": "Frontend Developer",
+                    "years": "Agustus 2024 - sekarang",
+                    "description": "Designing and developing websites for clients using HTML5, CSS3, reactjs and talwindcss."
+                },
+                {
+                    "company": "PT. Surya Selindo",
+                    "title": "Operator quality control",
+                    "years": "Desember 2021 - Juli 2023",
+                    "description": "Quality control of raw materials and finished products, and control of production process."
+                }
+            ],
+            "skills": [
+                {
+                    "name": "HTML",
+                    "level": "85%"
+                },
+                {
+                    "name": "CSS",
+                    "level": "90%"
+                },
+                {
+                    "name": "JavaScript",
+                    "level": "80%"
+                },
+                {
+                    "name": "github",
+                    "level": "80%"
+                },
+                {
+                    "name": "React JS",
+                    "level": "80%"
+                },
+                {
+                    "name": "PHP",
+                    "level": "60%"
+                },
+                {
+                    "name": "Tailwind",
+                    "level": "80%"
+                }
+            ]
+        }
     }
 }
