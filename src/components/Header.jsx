@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import { Component } from "react";
 import ParticlesBg from "particles-bg";
 import { Fade } from "react-awesome-reveal";
 
@@ -17,7 +17,7 @@ export default class Header extends Component {
           <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
             Show navigation
           </a>
-          <a className="mobile-btn" href="#nav-wrap" title="Hide navigation">
+          <a className="mobile-btn" href="#home" title="Hide navigation">
             Hide navigation
           </a>
           <ul id="nav" className="nav">
@@ -68,6 +68,11 @@ export default class Header extends Component {
             </Fade>
           </div>
         </div>
+        <p className="scrolldown">
+          <a className="smoothscroll" href="#about">
+            <i className="icon-down-circle"></i>
+          </a>
+        </p>
       </header>
     );
   }
